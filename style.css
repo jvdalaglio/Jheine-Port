@@ -1,0 +1,63 @@
+body{   
+    font-family: 'Bebas Neue', cursive;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 60px;
+    border-bottom-style: dotted;
+    text-align: center;
+}
+
+.row {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+p {
+    text-align: center;
+    border-bottom-style: dashed;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+}
+
+nav {
+       
+}
+
+.container1 {
+    width: 40px;
+    padding: 5px;
+    margin: 10px;
+    margin-right: 400px;
+
+}
+
+header {
+    padding: 5px;
+    display: flex;
+    text-align: center;
+}
+
+
+li{
+    text-align: center;
+    font-size: 50px;
+    padding-right: 200px; 
+}
